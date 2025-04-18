@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "1cb5f8f052f0d6a73a4b934fdaaf47a5"
-application_url = "https://cognitive-requesting-coastal-geographical.trycloudflare.com"
+application_url = "https://jame-vu.cloud"
 embedded = true
 name = "remix-base"
 handle = "remix-base"
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://cognitive-requesting-coastal-geographical.trycloudflare.com/auth/callback",
-  "https://cognitive-requesting-coastal-geographical.trycloudflare.com/auth/shopify/callback",
-  "https://cognitive-requesting-coastal-geographical.trycloudflare.com/api/auth/callback"
+  "https://jame-vu.cloud/auth/callback",
+  "https://jame-vu.cloud/auth/shopify/callback",
+  "https://jame-vu.cloud/api/auth/callback"
 ]
 
 [pos]
